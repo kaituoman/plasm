@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+header, section, footer {
+    background-color: #c2ced6;
+    border:5px #7b79a0 solid;
+    padding: 25px;
+    margin: 10px;
+}
+header a{
+    color: rgb(114, 83, 146)
+}
+header li{
+    display: inline;
+    margin-right: 4vw;
+}
+header ul{
+    position: absolute;
+    right: 10vw;
+    top: 0;
+    line-height: 460px;             /* 目录文字位置 */
+}
+header {
+    background-color: rgb(136, 196, 151);
+}
+h1 {
+    color:white;
+}
